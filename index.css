@@ -8,7 +8,7 @@ body {
     background-image: url("909ec1e9aba84b9889ef6de456744a0d.jpg");
     font-family: 'Ubuntu', sans-serif;
     background-size: contain;
-
+    background-repeat:  no-repeat;
 }
 
 img {
@@ -20,7 +20,7 @@ img {
 a {
     text-decoration: none;
     color: #000;
-    font-size:1.5rem
+    font-size:1.5rem;
 }
 
 img.center {
@@ -192,6 +192,7 @@ h5 {
 @media screen and (max-width:500px) {
     .container {
       width: 90%;
+      height: 100%;
     }
     .one {
         font-size: 2rem;
