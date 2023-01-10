@@ -7,6 +7,7 @@ body {
     margin: 0;
     background-image: url("FB_IMG_16293204263875596.jpg");
     font-family: 'Ubuntu', sans-serif;
+    background-size: cover;
 }
 
 img {
@@ -208,7 +209,7 @@ h5 {
     img {
         width: 300px;
         height: 200px;
-        border-radius: 50%;
+        border-radius: 50px;
     }
     .refresh-btn {
         display: none;
