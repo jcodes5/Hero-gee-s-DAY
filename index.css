@@ -58,8 +58,8 @@ img.center {
 }
 
 .container {
-    height: 100%;
-    width: 100%;
+    height: 100vh;
+    width: 100vh;
     margin: 0 auto;
     text-align: center;
     position: relative;
@@ -159,7 +159,6 @@ img.center {
 h5 {
     font-weight: lighter;
     font-size: 1.8rem;
-    color: #fff;
     margin: 10px 0 0;
 }
 
