@@ -192,7 +192,7 @@ h5 {
 @media screen and (max-width:500px) {
     .container {
       width: 90%;
-      height: 100%;
+    
     }
     .one {
         font-size: 2rem;
