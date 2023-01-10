@@ -12,6 +12,7 @@ body {
 img {
     width: 500px;
     height: 400px;
+    border-radius: 50%;
 }
 
 a {
@@ -207,6 +208,7 @@ h5 {
     img {
         width: 300px;
         height: 200px;
+        border-radius: 50%;
     }
     .refresh-btn {
         display: none;
